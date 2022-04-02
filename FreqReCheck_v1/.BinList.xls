@@ -1,0 +1,3 @@
+Reference	DEFAULTDIR/DB/Reference/hg38/ucsc.hg38.fasta
+Samtools	DEFAULTDIR/Softs/samtools-1.11/bin/samtools
+Bedtools	DEFAULTDIR/Softs/bedtools-2.26/bin/bedtools
